@@ -3,8 +3,8 @@ layout: default
 title: Salesforce Help Document
 ---
 
-# Candoris Help Document #
-Thank you for visiting the Candoris Help Document today. You can use the links below to navigate to a specific subject, or your browser's find option (ctrl+f for windows, cmd + f for mac) to search a term.  
+# Salesforce Help Document #
+Thank you for visiting Candoris's Salesforce Help Document today. You can use the links below to navigate to a specific subject, or your browser's find option (ctrl+f for windows, cmd + f for mac) to search a term.  
 
 * [Accounts](#accounts)  
 * [Contacts](#contacts)  

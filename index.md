@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Candoris Help Document
+title: Salesforce Help Document
 ---
 
 # Candoris Help Document #

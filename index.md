@@ -1,3 +1,8 @@
+---
+layout: default
+title: Candoris Help Document
+---
+
 # Candoris Help Document
 
 

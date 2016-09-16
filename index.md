@@ -183,6 +183,7 @@ Aka Apps, Installed Packages, AppExchange Packages. Packages are sets of Tabs, O
 * [Classy: Classy for Salesforce](https://support.classy.org/customer/en/portal/topics/718203-classy-for-salesforce/articles)  
 * [iContact: iContact for Salesforce Best Practices (PDF)](https://www.icontact.com/content/resources/pdf/greenpaper_iContactSalesforce_bestPractices.pdf)  
 * [iContact: Copying HTML from iContact MessageBuilder into a Custom HTML Template in Salesforce (PDF)](https://www.icontactimg.com/content/resources/pdf/iContact-for-Salesforce_Copy-HTML-into-Template.fv826e716.pdf)  
+* [Drawloop: Getting Started with Drawloop](http://help.nintex.com/en-us/docgen/docservices/Default.htm#Services/t_GettingStarted.htm)
 
 #### Videos ####
 * [iContact: iContact for Salesforce Tutorials](https://www.icontact.com/resources/tutorials#sf-tutorials)
